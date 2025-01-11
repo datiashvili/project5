@@ -1,0 +1,33 @@
+.main-1{
+    border: 9px solid red;
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.main-2{
+
+}
+.h-1{
+    color: plum;
+    background-color: black;
+    border: 4px solid green;
+    border-radius: 6px;
+    padding: 5px;
+}
+
+.h-2{
+    color: plum;
+    background-color: black;
+    border: 3px dotted blue;
+    border-radius: 6px;
+    padding: 5px;
+}
+
+.h-3{
+    color: plum;
+    background-color: black;
+    border: 3px dashed red;
+    border-radius: 6px;
+    padding: 5px;
+}
