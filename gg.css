@@ -6,7 +6,11 @@
 }
 
 .main-2{
-
+    background-color: black;
+    border: 10px solid red;
+    margin-top: 10px;
+    border-radius: 20px;
+    padding: 15px;
 }
 .h-1{
     color: plum;
@@ -29,5 +33,47 @@
     background-color: black;
     border: 3px dashed red;
     border-radius: 6px;
-    padding: 5px;
+    padding: 10px;
+}
+
+.p-1{
+    background-color: yellow;
+    padding: 13px;
+    border-radius: 6px;
+}
+
+.b-1{
+    background-color: red;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border: 2px solid srgba(255, 255, 255, 0.644);
+}
+
+.main-3{
+    display: flex;
+    gap: 20px;
+    background-color: greenyellow;
+    margin-top: 10px;
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+
+
+.l-2{
+    background-color: red;
+    width: 53px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.o-1{
+    background-color: yellow;
+    width: 53px;
+    border-radius: 10px;
+    border: 2px solid black;
 }
